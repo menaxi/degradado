@@ -1,0 +1,2 @@
+# degradado
+Created with CodeSandbox
